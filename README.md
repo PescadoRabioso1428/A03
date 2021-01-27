@@ -7,6 +7,7 @@ Webstorm Setup
 
 
 Glossary:
+
 Branch - A set of code that is under development without affecting the porduction / main branch code
 
 Clone
