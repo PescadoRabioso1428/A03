@@ -82,9 +82,6 @@ References:
 1. https://docs.github.com/en/github/getting-started-with-github/github-glossary#clone
 
 2. Introduction to Github and Webstorm Powerpoint/ Extra Intallation Instructions PDF. From the class, by Dr Art Hendela
-
-3. Beer, B. (2018). Introducing GitHub. 2ed. O’Reilly Press. 
-
-4.Jetbrains. (2019). Git.   Retrieved March 21, 2019, from https://www.jetbrains.com/help/webstorm/using-git-integration.html
-
-5.GitHub (2019) GitHub Guides Tutorial. Retrieved  March 19, 2019, from https://guides.github.com/activities/hello-world/
+3.  Beer, B. (2018). Introducing GitHub. 2ed. O’Reilly Press. 
+4.  Jetbrains. (2019). Git.   Retrieved March 21, 2019, from https://www.jetbrains.com/help/webstorm/using-git-integration.html
+5.  GitHub (2019) GitHub Guides Tutorial. Retrieved  March 19, 2019, from https://guides.github.com/activities/hello-world/
